@@ -1,0 +1,26 @@
+{
+  "user": {
+    "username": "Santiago Vanegas Torres",
+    "profileImage": "https://ibb.co/tTqhkXJF",
+    "socialNetwork": "github",
+    "socialLink": "@saniagore"
+  },
+  "sentences": [
+    {
+      "sentence": "If I study hard, I will pass the exam.",
+      "hint": "First conditional"
+    },
+    {
+      "sentence": "She has been working on this project all week.",
+      "hint": "Present perfect continuous"
+    },
+    {
+      "sentence": "We should always follow good software engineering practices.",
+      "hint": "Modal verbs"
+    },
+    {
+      "sentence": "Learning English will open many international opportunities.",
+      "hint": "Future and career"
+    }
+  ]
+}
