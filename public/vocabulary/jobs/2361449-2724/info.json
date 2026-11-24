@@ -1,0 +1,30 @@
+{
+  "user": {
+    "username": "TonySny",
+    "profileImage": "https://github.com/TonySny.png",
+    "socialNetwork": "instagram",
+    "socialLink": "@antonio_rc01"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "cryptographer",
+      "es": "criptógrafo"
+    },
+    {
+      "id": 2,
+      "en": "ethical hacker",
+      "es": "hacker ético"
+    },
+    {
+      "id": 3,
+      "en": "security analyst",
+      "es": "analista de seguridad"
+    },
+    {
+      "id": 4,
+      "en": "security auditor",
+      "es": "auditor de seguridad"
+    }
+  ]
+}
