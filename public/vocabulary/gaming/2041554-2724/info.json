@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "Juan Sebastian Ospina Maya (fulkns645)",
+    "profileImage": "https://github.com/fulkns645.png",
+    "socialNetwork": "instagram",
+    "socialLink": "@fulkns645"
+  },
+  "words": [
+    { "id": 1, "en": "achievement", "es": "logro" },
+    { "id": 2, "en": "scoreboard", "es": "marcador" },
+    { "id": 3, "en": "controller", "es": "mando" },
+    { "id": 4, "en": "respawn", "es": "reaparecer" }
+  ]
+}
